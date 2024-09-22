@@ -3,9 +3,12 @@
 
 A simple and effective Todo application that helps users manage their tasks efficiently. This project includes both a backend API and a frontend interface.
 
+This project has been moved to [GitHub Repository](https://github.com/sahaniindrajit/Task-Manager)    
+  [Check out the Website](https://managefiasco.vercel.app/)
+
 ## Backend
 
-The backend of the Todo App is built using [Node.js](https://nodejs.org/) with [Express](https://expressjs.com/). It provides a RESTful API to manage todos.
+The backend of the Todo App is built using [Node.js] with [Express]. It provides a RESTful API to manage todos.
 
 ### Features
 
